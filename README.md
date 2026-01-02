@@ -1,4 +1,4 @@
-```markdown
+
 # 🖊️ Signature Background Removal – Azure Function
 
 A **low-latency Azure Function** for removing the background from handwritten signatures on paper.
